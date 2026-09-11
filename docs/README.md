@@ -16,6 +16,7 @@ Use these guides to install, provision and integrate Nigeria GeoData.
 
 ## Publishing & visuals
 
+- [WordPress.org Publication](WORDPRESS-ORG.md)
 - [Screenshot Guide](SCREENSHOTS.md)
 
 ## Support
