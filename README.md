@@ -155,6 +155,8 @@ See the full **[Installation Guide](docs/INSTALLATION.md)**.
 Paid geography provisioning is delivered through **CampaignManager.ng**.
 
 - Provisioning service: https://campaignmanager.ng/nigeria-geodata/wordpress
+- External Service & Privacy Disclosure: https://campaignmanager.ng/legal/nigeria-geodata-wordpress-service-disclosure
+- Campaign Manager legal agreement: https://campaignmanager.ng/legal/campaign-manager-agreement
 - Campaign Manager: https://campaignmanager.ng/
 
 After successful payment confirmation, the service issues a site-bound `NGWP-...` provisioning key automatically.
@@ -315,6 +317,8 @@ CampaignManager.ng supplies the paid geography provisioning service.
 During provisioning, Nigeria GeoData sends the provisioning key, WordPress site URL, installation identifier, plugin version and provisioning-session information required to deliver the authorised dataset.
 
 After provisioning, normal geography queries use the local WordPress database. GeoForms and Contact Form 7 submission contents are not sent to CampaignManager.ng by the geography query layer.
+
+Read the dedicated **[External Service & Privacy Disclosure](https://campaignmanager.ng/legal/nigeria-geodata-wordpress-service-disclosure)** for details about service operation, transmitted data, payment handling, retention and local-versus-remote processing.
 
 ## Licence
 
