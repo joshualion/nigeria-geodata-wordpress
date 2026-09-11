@@ -46,7 +46,7 @@ After activation:
 ## Release asset SHA-256
 
 ```text
-325a1e98466c6711a1b7b6a93d35551522fd144c15495be27ae02d085a3b98cf  nigeria-geodata-1.0.0.zip
+d55d92c845ee41353fc7da0c9e318688afa851578890fdf2d95663954e655a72  nigeria-geodata-1.0.0.zip
 ```
 
 ## Service
