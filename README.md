@@ -6,6 +6,8 @@ Nigeria GeoData is a WordPress plugin by **Govware** for provisioning and using 
 
 <p>
   <a href="https://github.com/joshualion/nigeria-geodata-wordpress/releases/latest"><img src="https://img.shields.io/github/v/release/joshualion/nigeria-geodata-wordpress?label=Latest%20Release&style=for-the-badge&color=008F5A" alt="Latest Release"></a>
+  <a href="https://github.com/joshualion/nigeria-geodata-wordpress/releases"><img src="https://img.shields.io/github/downloads/joshualion/nigeria-geodata-wordpress/total?label=Total%20Downloads&style=for-the-badge&color=0A7F55" alt="Total Downloads"></a>
+  <img src="https://img.shields.io/badge/Prior%20Asset%20Downloads-%2B10-0A7F55?style=for-the-badge" alt="Prior Asset Downloads +10">
   <img src="https://img.shields.io/badge/Public%20Since-11%20Sep%202026-006B45?style=for-the-badge" alt="Public Since">
   <img src="https://img.shields.io/badge/Release%20Channel-Stable-008F5A?style=for-the-badge" alt="Release Channel">
 </p>
